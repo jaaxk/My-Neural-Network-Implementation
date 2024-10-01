@@ -1,19 +1,23 @@
 This project was a way for me to understand the very specifics of how existing Python libraries like tensorflow and scikit-learn work. The following are the functions that I've implemented:
 
 Activation Functions:
-Relu
-Relu Derivative
+
+Relu,
+Relu Derivative,
 Softmax
 
 Loss Functions:
+
 Cross entropy
 
 Optimization Functions:
-Random Search
+
+Random Search,
 Stochastic Gradient Descent (unfinished, trying to work out backpropagation)
 
 Preprocessing:
-To Categorical
+
+To Categorical,
 Normalize
 
 The tests.py and tests.ipynb are an example of how to use this module on an example dataset, WineQT.csv.
